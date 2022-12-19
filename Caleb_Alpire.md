@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart LR
 
 %% Colors %%
 classDef red fill:#8B0000,stroke:#000,color:#FFF
